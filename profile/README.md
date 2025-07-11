@@ -19,4 +19,4 @@ Pour toute question, suggestion ou demande de collaboration, n'hésitez pas à n
 
 - Email : hello@addveo.contact
 - Discord : [Redirection](https://discord.gg/addveo)
-- Site officiel : [Redirection](https://addveo.fr/)
+- Site officiel : [Redirection](https://addveo.com/)

@@ -18,4 +18,5 @@ Nous proposons des solutions fiables, évolutives et sécurisées, adaptées aux
 Pour toute question, suggestion ou demande de collaboration, n'hésitez pas à nous contacter :
 
 - Email : hello@addveo.contact
-- Discord : [Serveur Discord Addveo](https://discord.gg/addveo)
+- Discord : [Redirection](https://discord.gg/addveo)
+- Site officiel : [Redirection](https://addveo.fr/)

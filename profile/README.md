@@ -9,8 +9,8 @@ ADDVEO est une société indépendante spécialisée dans l’hébergement de se
 Nous proposons des solutions fiables, évolutives et sécurisées, adaptées aux exigences des entreprises modernes comme des créateurs les plus exigeants.
 
 ## Nos principales activités
-- Hébergement VPS
-- Protection réseau dédiée
+- Hébergement
+- Protection réseau
 - Déploiements automatisés et gestion d’instances
 - Interfaces de gestion et outils personnalisés
 
